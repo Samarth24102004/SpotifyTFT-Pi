@@ -1,0 +1,6 @@
+spotipy
+requests
+Pillow
+adafruit-blinka
+adafruit-circuitpython-rgb-display
+python-dotenv
